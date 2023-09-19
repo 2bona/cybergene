@@ -174,13 +174,13 @@ Default btn CSS
   overflow: hidden;
   z-index: 1;
   color: #ffffff;
-  background-color: #3c62e9;
+  background-color: #7a1d56;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   padding: 15px 35px;
   font-size: 16px;
   font-weight: 600;
-  border-radius: 2px;
+  border-radius: 20px;
   font-family: "Nunito", sans-serif;
 }
 
@@ -1596,7 +1596,7 @@ Main Banner Area CSS
 
 .main-banner-item.item-two .main-banner-content .banner-btn .default-btn {
   color: #ffffff;
-  background-color: #3c62e9;
+  background-color: #7a1d56;
   margin-right: 15px;
 }
 
@@ -1610,12 +1610,12 @@ Main Banner Area CSS
 }
 
 .main-banner-item.item-two .main-banner-content .banner-btn .optional-btn span {
-  background-color: #3c62e9;
+  background-color: #7a1d56;
 }
 
 .main-banner-item.item-three {
   background: -webkit-gradient(linear, left top, right top, from(#017dbe), color-stop(#0066ae), color-stop(#00509c), color-stop(#003989), to(#022274));
-  background: linear-gradient(to right, #017dbe, #0066ae, #00509c, #003989, #022274);
+  background: linear-gradient(to right, #000000, #0066ae, #00509c, #efefef, #7a1d56);
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -1654,7 +1654,7 @@ Main Banner Area CSS
 
 .main-banner-content .banner-btn .default-btn {
   color: #ffffff;
-  background-color: #3c62e9;
+  background-color: #7a1d56;
 }
 
 .main-banner-content .banner-btn .default-btn span {
@@ -1662,7 +1662,7 @@ Main Banner Area CSS
 }
 
 .main-banner-content .banner-btn .default-btn:hover {
-  color: #3c62e9;
+  color: #7a1d56;
 }
 
 .main-banner-content .banner-btn .optional-btn {
@@ -1691,7 +1691,7 @@ Main Slider Area CSS
 
 .main-slider-content span {
   font-size: 16px;
-  color: #3c62e9;
+  color: #7a1d56;
   font-weight: 600;
   display: inline-block;
   margin-bottom: 15px;
@@ -2387,7 +2387,7 @@ Services Area CSS
 
 .services-list-tab .tabs li a i {
   font-size: 35px;
-  color: #3c62e9;
+  color: #7a1d56;
   line-height: 1;
   position: absolute;
   left: 30px;
@@ -3245,7 +3245,7 @@ Top Features Area CSS
 }
 
 .single-top-features .icon i {
-  color: #3c62e9;
+  color: #7a1d56;
   font-size: 60px;
 }
 
@@ -3271,7 +3271,7 @@ Top Features Area CSS
   line-height: 50px;
   text-align: center;
   background-color: #f4f1fb;
-  color: #3c62e9;
+  color: #7a1d56;
   font-size: 25px;
   border-radius: 50px;
   position: absolute;
@@ -3303,7 +3303,7 @@ Top Features Area CSS
 }
 
 .single-top-features:hover .number {
-  background-color: #3c62e9;
+  background-color: #7a1d56;
   color: #ffffff;
 }
 
@@ -3567,7 +3567,7 @@ Testimonial Area CSS
   text-align: center;
   max-width: 850px;
   margin: auto;
-  border-radius: 80px 0 80px 0;
+  border-radius: 30px;
   border-right: 5px solid #f4f0fc;
   border-bottom: 20px solid #f4f0fc;
 }
@@ -3734,7 +3734,7 @@ Overview Area CSS
 =================================================*/
 .overview-area {
   background: -webkit-gradient(linear, left top, right top, from(#0187c6), color-stop(#006ab2), color-stop(#004d9b), color-stop(#003082), to(#021166));
-  background: linear-gradient(to right, #0187c6, #006ab2, #004d9b, #003082, #021166);
+  background: linear-gradient(to right, #000000, #006ab2, #004d9b, #003082, #7a1d56);
   position: relative;
   z-index: 1;
   overflow: hidden;
@@ -3794,8 +3794,9 @@ Overview Area CSS
 }
 
 .overview-content .overview-btn .optional-btn {
-  background-color: #000244;
+  background-color: #7a1d56;
   color: #ffffff;
+  border-radius: 20px;
 }
 
 .overview-content .overview-btn .optional-btn span {
@@ -6903,7 +6904,7 @@ Footer Area CSS
 =================================================*/
 .footer-area {
   /* WORKedit change color */
-  background-color: #030248;
+  background-color: #000;
   margin-top: 100px;
   position: relative;
   z-index: 1;
