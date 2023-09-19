@@ -343,13 +343,13 @@ Preloader Area CSS
   border-radius: 50%;
   background-color: #ffffff;
   /* WORKedit edit spining icon here, use gif or logo icon */
-  background-image: url('https://cdn.dribbble.com/users/902865/screenshots/4814970/loading-opaque.gif');
+  background-image: url('https://res.cloudinary.com/payhospi/image/upload/v1695102326/syntho_yvmuog.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0 auto;
-  -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
-          animation: sk-rotateplane 1.2s infinite ease-in-out;
+  /* -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
+          animation: sk-rotateplane 1.2s infinite ease-in-out; */
   position: absolute;
   right: 0;
   left: 0;
@@ -3587,7 +3587,7 @@ Testimonial Area CSS
   right: 0;
   margin: auto;
   color: #ffffff;
-  background-color: #3c62e9;
+  background-color: #7a1d56;
   width: 70px;
   height: 70px;
   line-height: 70px;
