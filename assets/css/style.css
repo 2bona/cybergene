@@ -268,7 +268,7 @@ Section Title CSS
   height: 5px;
   width: 100px;
   /* WORKedit change color */
-  background: #009148;
+  background: #7a1d56;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -2081,7 +2081,7 @@ Solution Area CSS
 .solution-content .bar {
   height: 5px;
   width: 100px;
-  background: #009148;
+  background: #7a1d56;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -2510,7 +2510,7 @@ Hosting Area CSS
 .hosting-content .bar {
   height: 5px;
   width: 100px;
-  background: #009148;
+  background: #7a1d56;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -2969,7 +2969,7 @@ FAQ Area CSS
 .faq-item-box .content .bar {
   height: 5px;
   width: 100px;
-  background: #009148;
+  background: #7a1d56;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -3217,7 +3217,7 @@ Blog Area CSS
 
 .single-blog:hover h3 a {
   /* WORKedit change color hover  */
-  color: #009148;
+  color: #7a1d56;
 }
 
 .single-blog:hover .blog-btn {
@@ -3333,7 +3333,7 @@ Features Area CSS
 .features-item .content .bar {
   height: 5px;
   width: 100px;
-  background: #009148;
+  background: #7a1d56;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -3356,7 +3356,6 @@ Features Area CSS
   -webkit-animation-iteration-count: infinite;
           animation-iteration-count: infinite;
   -webkit-animation-name: MOVE-BG;
-          animation-name: MOVE-BG;
 }
 
 .features-item .single-features {
@@ -3446,7 +3445,7 @@ Fun Facts Area CSS
 .fun-facts-item .content .bar {
   height: 5px;
   width: 100px;
-  background: #009148;
+  background: #7a1d56;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -3870,7 +3869,7 @@ Choose Area CSS
 .choose-item .content .bar {
   height: 5px;
   width: 100px;
-  background: #009148;
+  background: #7a1d56;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -4143,7 +4142,7 @@ AboutArea CSS
 .about-content .content .bar {
   height: 5px;
   width: 100px;
-  background: #009148;
+  background: #7a1d56;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -5000,7 +4999,7 @@ Contact Area CSS
 .contact-form .title .bar {
   height: 5px;
   width: 100px;
-  background: #009148;
+  background: #7a1d56;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
