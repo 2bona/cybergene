@@ -4101,7 +4101,7 @@ AboutArea CSS
 }
 
 .about-image .video-btn i {
-  display: inline-block;
+  display: none;
   height: 65px;
   width: 65px;
   line-height: 65px;
