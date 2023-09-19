@@ -268,7 +268,7 @@ Section Title CSS
   height: 5px;
   width: 100px;
   /* WORKedit change color */
-  background: #3c62e9;
+  background: #009148;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -2081,7 +2081,7 @@ Solution Area CSS
 .solution-content .bar {
   height: 5px;
   width: 100px;
-  background: #3c62e9;
+  background: #009148;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -2510,7 +2510,7 @@ Hosting Area CSS
 .hosting-content .bar {
   height: 5px;
   width: 100px;
-  background: #3c62e9;
+  background: #009148;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -2969,7 +2969,7 @@ FAQ Area CSS
 .faq-item-box .content .bar {
   height: 5px;
   width: 100px;
-  background: #3c62e9;
+  background: #009148;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -3217,7 +3217,7 @@ Blog Area CSS
 
 .single-blog:hover h3 a {
   /* WORKedit change color hover  */
-  color: #3c62e9;
+  color: #009148;
 }
 
 .single-blog:hover .blog-btn {
@@ -3333,7 +3333,7 @@ Features Area CSS
 .features-item .content .bar {
   height: 5px;
   width: 100px;
-  background: #3c62e9;
+  background: #009148;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -3446,7 +3446,7 @@ Fun Facts Area CSS
 .fun-facts-item .content .bar {
   height: 5px;
   width: 100px;
-  background: #3c62e9;
+  background: #009148;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -3869,7 +3869,7 @@ Choose Area CSS
 .choose-item .content .bar {
   height: 5px;
   width: 100px;
-  background: #3c62e9;
+  background: #009148;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -4142,7 +4142,7 @@ AboutArea CSS
 .about-content .content .bar {
   height: 5px;
   width: 100px;
-  background: #3c62e9;
+  background: #009148;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -4999,7 +4999,7 @@ Contact Area CSS
 .contact-form .title .bar {
   height: 5px;
   width: 100px;
-  background: #3c62e9;
+  background: #009148;
   position: relative;
   border-radius: 5px;
   overflow: hidden;
@@ -6903,7 +6903,8 @@ Footer Area CSS
 =================================================*/
 .footer-area {
   /* WORKedit change color */
-  background-color: #000;
+  background-color: #030248;
+  margin-top: 100px;
   position: relative;
   z-index: 1;
   overflow: hidden;
